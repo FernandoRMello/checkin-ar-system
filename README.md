@@ -51,7 +51,7 @@ Sistema web responsivo completo para controle de entrada de pessoas em eventos, 
 ### Opção 2: Desenvolvimento Local
 ```bash
 # Clone o repositório
-git clone https://github.com/artotaleventos/checkin-ar-system.git
+git clone git clone https://github.com/FernandoRMello/checkin-ar-system.git
 cd checkin-ar-system
 
 # Instalar dependências do backend
