@@ -1,0 +1,38 @@
+LICENÇA DE USO - SISTEMA CHECK-IN AR TOTAL EVENTOS
+
+Copyright (c) 2025 AR Total Eventos
+
+TERMOS E CONDIÇÕES DE USO
+
+1. CONCESSÃO DE LICENÇA
+   Este sistema foi desenvolvido exclusivamente para AR Total Eventos.
+   É concedida uma licença não exclusiva e intransferível para uso interno.
+
+2. RESTRIÇÕES
+   - Não é permitida a redistribuição do software
+   - Não é permitida a modificação do código sem autorização
+   - Não é permitido o uso comercial por terceiros
+   - Não é permitida a engenharia reversa
+
+3. PROPRIEDADE INTELECTUAL
+   Todos os direitos autorais, marcas registradas e outros direitos de
+   propriedade intelectual permanecem com AR Total Eventos.
+
+4. GARANTIA
+   O software é fornecido "como está", sem garantias expressas ou implícitas.
+   AR Total Eventos não se responsabiliza por danos diretos ou indiretos.
+
+5. SUPORTE TÉCNICO
+   Suporte técnico é fornecido mediante contrato de manutenção separado.
+
+6. VIGÊNCIA
+   Esta licença permanece válida até ser rescindida por qualquer das partes.
+
+Para dúvidas sobre licenciamento, entre em contato:
+Email: juridico@artotaleventos.com.br
+Telefone: (11) 99999-9999
+
+AR Total Eventos
+CNPJ: 00.000.000/0001-00
+São Paulo - SP - Brasil
+
